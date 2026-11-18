@@ -1,0 +1,3 @@
+security/npm-audit-root.json {"info":0,"low":0,"moderate":0,"high":0,"critical":0,"total":0}
+security/npm-audit-server.json {"info":0,"low":0,"moderate":1,"high":1,"critical":1,"total":3}
+security/npm-audit-client.json {"info":0,"low":0,"moderate":0,"high":0,"critical":0,"total":0}

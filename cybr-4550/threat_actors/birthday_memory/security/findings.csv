@@ -1,0 +1,11 @@
+id,title,owasp_category,severity,cvss_vector,status
+BM-01,All CRUD routes lack authentication and authorization,A01 Broken Access Control / A07 Authentication,Critical,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N,Confirmed Vulnerable
+BM-02,PostgreSQL application role is a superuser,A01 Broken Access Control / A05 Misconfiguration,Critical,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,Confirmed Vulnerable
+BM-03,PostgreSQL port is published to all host interfaces,A05 Security Misconfiguration,Medium,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N,Confirmed Vulnerable
+BM-04,CORS permits arbitrary origins,A05 Security Misconfiguration,Medium,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,Confirmed Vulnerable
+BM-05,Database TLS certificate verification is disabled,A02 Cryptographic Failures,High,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N,Confirmed Vulnerable
+BM-06,No security-header baseline,A05 Security Misconfiguration,Low,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,Confirmed Vulnerable
+BM-07,Database outage details are exposed by health endpoint,A05 Security Misconfiguration,Low,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,Confirmed Vulnerable
+BM-08,CRUD actions have no audit trail,A09 Logging and Monitoring,Medium,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,Confirmed Vulnerable
+BM-10,Server dependencies contain known advisories,A06 Vulnerable Components,High,Multiple,Confirmed Vulnerable
+BM-11,Unbounded list operations and no throttling,A04 Insecure Design / Availability,Low,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L,Confirmed Risk

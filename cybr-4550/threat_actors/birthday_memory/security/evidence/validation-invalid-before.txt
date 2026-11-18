@@ -1,0 +1,11 @@
+HTTP/1.1 422 Unprocessable Entity
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 216
+ETag: W/"d8-+kvs9UvhhiUDmlmG405Uea3QLJM"
+Date: Wed, 18 Nov 2026 03:32:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"errors":{"firstName":"First name is required.","lastName":"Last name is required.","birthdate":"Birthdate cannot be in the future.","phone":"Telephone number looks invalid.","email":"Email address looks invalid."}}

@@ -1,0 +1,3 @@
+Name:	postgres
+Uid:	70	70	70	70
+Gid:	70	70	70	70

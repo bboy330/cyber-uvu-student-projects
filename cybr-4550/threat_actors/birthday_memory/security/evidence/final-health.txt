@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 42
+ETag: W/"2a-d+ZUZLg0sBAxNX+SUhxZdOlYVhY"
+Date: Wed, 18 Nov 2026 03:35:58 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"status":"ok","database":"thebirthdates"}

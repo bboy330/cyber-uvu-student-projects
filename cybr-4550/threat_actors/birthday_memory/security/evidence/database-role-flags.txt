@@ -1,0 +1,5 @@
+ rolsuper | rolcreaterole | rolcreatedb | rolcanlogin | rolbypassrls 
+----------+---------------+-------------+-------------+--------------
+ t        | t             | t           | t           | t
+(1 row)
+

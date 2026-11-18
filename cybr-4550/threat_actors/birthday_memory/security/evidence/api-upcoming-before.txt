@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 1248
+ETag: W/"4e0-ZTuiZLWBGQlD2Db7yRTTOxt1lAk"
+Date: Wed, 18 Nov 2026 03:31:53 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+[{"id":"ce783c4b-ce79-4cae-9ade-a4aa9bba7238","firstName":"Ada","lastName":"Lovelace","birthdate":"1990-11-18","phone":"+1 415 555 0101","email":"ada@example.com","createdAt":"2026-11-18T00:37:04.757Z","updatedAt":"2026-11-18T00:37:04.757Z","age":35,"turningAge":36,"daysUntil":1,"nextBirthday":"2026-11-18"},{"id":"0dd4e646-0487-4feb-b80c-91f967619c2d","firstName":"Grace","lastName":"Hopper","birthdate":"1986-11-21","phone":"+1 415 555 0102","email":"grace@example.com","createdAt":"2026-11-18T00:37:04.758Z","updatedAt":"2026-11-18T00:37:04.758Z","age":39,"turningAge":40,"daysUntil":4,"nextBirthday":"2026-11-21"},{"id":"c78166fe-e184-4ebc-9a9b-89259fdeb879","firstName":"Alan","lastName":"Turing","birthdate":"1978-11-30","phone":"+1 415 555 0103","email":"alan@example.com","createdAt":"2026-11-18T00:37:04.760Z","updatedAt":"2026-11-18T00:37:04.760Z","age":47,"turningAge":48,"daysUntil":13,"nextBirthday":"2026-11-30"},{"id":"8ac5ef5d-0edb-4930-b88d-0e2c62844a2d","firstName":"Katherine","lastName":"Johnson","birthdate":"1995-12-14","phone":"+1 415 555 0104","email":"katherine@example.com","createdAt":"2026-11-18T00:37:04.761Z","updatedAt":"2026-11-18T00:37:04.761Z","age":30,"turningAge":31,"daysUntil":27,"nextBirthday":"2026-12-14"}]

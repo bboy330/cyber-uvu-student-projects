@@ -1,0 +1,11 @@
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 312
+ETag: W/"138-aClMuAPlvcfYTzMeIXnrhLx9E/w"
+Date: Wed, 18 Nov 2026 03:31:58 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"id":"c4657e86-7175-4afc-af29-197b205b1fe6","firstName":"Copilot","lastName":"Tester","birthdate":"1995-05-10","phone":"+1 555 555 0100","email":"test@example.com","createdAt":"2026-11-18T03:31:58.507Z","updatedAt":"2026-11-18T03:31:58.507Z","age":31,"turningAge":32,"daysUntil":174,"nextBirthday":"2027-05-10"}
